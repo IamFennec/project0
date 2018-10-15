@@ -9,7 +9,7 @@ First time I used Html/CSS/SCSS and Bootstrap, so it's far from perfect
 Also I created this "website" in around 6 hours.
 
 ### index.html ###
-Homepage that I put the most work into, checke with components Bootstrap had available
+Homepage that I put the most work into, checked which components Bootstrap had available
 and started with the navbar, then the rest.
 
 ### resistor.html, capacitor.html, diode.html ###
