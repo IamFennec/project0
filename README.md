@@ -3,9 +3,10 @@
 Web Programming with Python and JavaScript
 
 Just a quick website I made for CS50W's project0
+
 First time I used Html/CSS/SCSS and Bootstrap, so it's far from perfect
 
-Created this "website" in around 6 hours.
+Also I created this "website" in around 6 hours.
 
 ### index.html ###
 Homepage that I put the most work into, checke with components Bootstrap had available
