@@ -1,0 +1,29 @@
+.component {
+  font-weight: bold;
+}
+
+.nestingExample {
+  text-align: center;
+}
+.nestingExample h1 {
+  margin: 5px;
+  border: 1px black;
+  border-bottom-style: dashed;
+}
+
+.negativeResistor, .positiveResistor {
+  font-size: 18px;
+  margin: 4px;
+  border: 1px dotted black;
+  padding: 3px;
+}
+
+.positiveResistor {
+  background-color: lightgreen;
+}
+
+.negativeResistor {
+  background-color: lightcoral;
+}
+
+/*# sourceMappingURL=custom_variables.css.map */

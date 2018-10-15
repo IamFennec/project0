@@ -1,0 +1,39 @@
+a:hover {
+    text-decoration: underline;
+    color: lightgray;
+}
+
+a:link {
+    color: black;
+}
+
+#diodeHeading {
+    text-align: center;
+    margin: 20px;
+}
+
+#diodeFunctions {
+    text-align: left;
+    margin: 5px;
+}
+
+.diodeFunction {
+    text-align: left;
+    margin: 5px;
+}
+
+#diodeTable {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th, td {
+    border: 1px dotted black;
+    padding: 3px;
+}
+
+@media print {
+    .navbar {
+        display: none;
+    }
+}
